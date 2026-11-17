@@ -2,8 +2,8 @@
 
 An end-to-end machine learning project that predicts the presence of heart disease from clinical measurements, with a Streamlit web app.
 
-**Author:** Adarsh Trivedi Sajal Khatri
-**Live app:** <PASTE DEPLOYED STREAMLIT LINK HERE>
+**Author:** Adarsh Trivedi & Sajal Khatri
+**Live app:** https://heart-disease-prediction-application-as.streamlit.app
 
 > ⚠️ **Disclaimer:** This is an educational prototype built for a college mini project. It is **not** a diagnostic tool and must not be used for medical decisions.
 
